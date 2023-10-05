@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aiaosama
+- 👋 Hi, I’m @AiaOsama15
 - 👀 I’m interested in tech (flutter, problem solving ,clean code,....)
 - 🌱 I’m currently Practus in real life applications
 - 💞️ I’m looking to collaborate on software code in python
