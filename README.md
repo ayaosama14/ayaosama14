@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on software code in dart
 - 📫 How to reach me 
 -email yokaosamaa640@gmail.com
+aia.osama@icloud.com
 -ln http://www.linkedin.com/in/aya-osama-0b42931bb
 
 <!---
